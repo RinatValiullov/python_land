@@ -1,2 +1,2 @@
-# python_land
+# Python land
 Learning python3

@@ -1,3 +1,4 @@
 # ide folders and files
 /.idea
 /.vscode
+/venv/**/*

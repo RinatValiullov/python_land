@@ -13,4 +13,3 @@ elif operator == '/':
     print("{} / {} = {}".format(num1, num2, num1 / num2))
 else:
     print('Use either + - * / next time')
-

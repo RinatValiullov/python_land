@@ -1,3 +1,6 @@
+import sys
+print(sys.version_info)
+
 age = input("Enter age:\n")
 age = int(age)
 

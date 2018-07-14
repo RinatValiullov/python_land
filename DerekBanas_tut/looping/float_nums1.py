@@ -59,6 +59,7 @@
 # 6. Print stump spaces and then 1 hash
 
 tree_height = int(input("How tall is the tree? "))
+print(tree_height)
 
 spaces = tree_height - 1
 

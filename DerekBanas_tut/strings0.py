@@ -1,6 +1,7 @@
 print(type('string'))
 print(type(5))
 print(type(.225))
+print(type(True))
 
 sample_string = 'This is a very important string'
 

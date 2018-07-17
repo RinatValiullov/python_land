@@ -1,8 +1,8 @@
 # For example:
-# Input1: Enter your message: Marah + Rinat
+# Input1: Enter your message: Some string
 # Input2: How many characters should be shift (1 - 26) 4
-# Encrypted:  Qevel + Vmrex
-# Decrypted:  Marah + Rinat
+# Encrypted:  Wsqi wxvmrk
+# Decrypted:  Some string
 
 message = input("Enter your message: ")
 
